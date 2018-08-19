@@ -11,8 +11,11 @@ call `./ft_ssl` followed by either `md5` or `sha256`
 you can use the following flags :
 
 . `-p` for stdin input
+
 . `-q` for quiet mode
+
 . `-r` to reverse output format
+
 . `-s` for longform output
 
 # Enjoy !
