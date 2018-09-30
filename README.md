@@ -2,6 +2,8 @@
 
 The MD5 and SHA256 cryptographic hashing algorithms recreated in c as part of the 42 curiculum.
 
+Not the most fun project to run. Try to enjoy ^-^
+
 # Running
 
 use 'make' to compile. 
